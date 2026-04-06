@@ -1,0 +1,10 @@
+dist/*
+.vscode
+.clang-format
+.clangd
+.editorconfig
+.env
+.ufbt
+
+# ProtoPirate source (tracked in RocketGod-git/ProtoPirate; we only keep the .fap binary)
+ProtoPirate/
